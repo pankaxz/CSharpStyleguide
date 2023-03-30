@@ -1,6 +1,5 @@
 # C# Style guide and coding practises :
 
-The style guide we are using for coding practices is on top of ****[The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide#misc).** 
 #
 ### **Namespaces :**
 
